@@ -1,0 +1,36 @@
+.navBarMain {
+    display: flex;
+    width: 100%;
+    background-color: black;
+    gap: 2rem;
+    color: white;
+    background-image: url('https://wallpaperaccess.com/full/5290243.jpg');
+    background-repeat: no-repeat;
+    background-size: 2500px 2000px;
+}
+
+.item {
+    padding: 1.15em;
+}
+
+.faq {
+    margin-right: 1em;
+}
+
+.logo {
+    padding: 0.6em;
+    padding-left: 1.3em;
+}
+
+.navBarMain h2:hover {
+    background-color: greenyellow;
+    color: black;
+}
+
+.navBarMain h1:hover {
+    color: greenyellow;
+}
+
+.about {
+    margin-left: auto;
+}

@@ -1,0 +1,47 @@
+.homeMain {
+    height: 100vh;
+    background-color: black;
+    background-image: url('https://wallpaperaccess.com/full/5290243.jpg');
+    background-repeat: no-repeat;
+    background-size: 2500px 2000px;
+}
+
+.homeBody {
+    color: whitesmoke;
+}
+
+img {
+    position: absolute;
+    width: 55%;
+    height: 50%;
+    right: 1rem;
+    bottom: 12em;
+}
+
+.line {
+    position: relative;
+    bottom: 1em;
+}
+
+.mainCaption {
+    position: relative;
+    top: 1.5em;
+    padding: 1em;
+    width: 40vw;
+    font-size: 2.8rem;
+    font-weight: 600;
+    font-family: Helvetica, Arial, sans-serif;
+    line-height: 120%;
+}
+
+.description {
+    position: relative;
+    top: 0em;
+    width: 40vw;
+    padding: 2em;
+    line-height: 150%;
+    font-size: 1.5rem;
+
+
+}
+
