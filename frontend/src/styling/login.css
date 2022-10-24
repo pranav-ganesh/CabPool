@@ -1,0 +1,30 @@
+.loginMain {
+    background-image: url('https://www.onlygfx.com/wp-content/uploads/2021/04/white-triangle-pattern-seamless-background-2.jpg');
+    background-repeat: no-repeat;
+    background-size: 350rem 300rem;
+    height: 100vh;
+}
+
+.loginBox {
+    border: solid black 1px;
+    margin-left: 25em;
+    margin-right: 25em;
+    margin-top: 2em;
+}
+
+.loginCaption {
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+    margin-top: 1em;
+    margin-bottom: 2em;
+    color: black;
+}
+
+.inputFields {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    align-items: center;
+    padding-bottom: 1.5em;
+}
